@@ -8,3 +8,7 @@ List of themes for the app Sprawlrun
 
 [Toxic](Propio/Toxic.json)
 ![Toxic](Propio/Toxic.png)
+
+[Mint](Propio/Mint.json)
+
+![Mint](Propio/Mint.png)
