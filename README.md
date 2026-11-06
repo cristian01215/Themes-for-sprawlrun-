@@ -5,4 +5,6 @@ List of themes for the app Sprawlrun
 
 ![Vanguard](Propio/Vanguard.png)
 
-[![Toxic](Propio/Toxic.png)](Propio/Toxic.json)
+
+[Toxic](Propio/Toxic.json)
+[![Toxic](Propio/Toxic.png)]
