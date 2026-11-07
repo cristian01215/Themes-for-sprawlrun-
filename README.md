@@ -15,4 +15,4 @@ List of themes for the app Sprawlrun
 
 [Oxide](Propio/Oxide.json)
 
-![Oxide](Propio/Oxide.png)
+![Oxide](Propio/oxide.png)
