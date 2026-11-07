@@ -12,3 +12,7 @@ List of themes for the app Sprawlrun
 [Mint](Propio/Mint.json)
 
 ![Mint](Propio/Mint.png)
+
+[Oxide](Propio/Oxide.json)
+
+![Oxide](Propio/Oxide.png)
